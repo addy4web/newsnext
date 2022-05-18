@@ -1,0 +1,11 @@
+
+.blogwrap {
+    background: #fff;
+    text-align: center;
+    float: left;
+    box-shadow: 0 7px 10px 0 rgb(0 0 0 / 11%);
+    border-radius: 5px;
+    padding: 28px;
+    box-sizing: border-box;
+    margin: 20px;
+}

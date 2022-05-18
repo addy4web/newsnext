@@ -1,0 +1,12 @@
+.flexgrid {
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.col-8 {
+    width: 65%;
+}
+
+.col-4 {
+    width: 35%;
+}
