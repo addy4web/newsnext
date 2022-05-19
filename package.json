@@ -9,5 +9,20 @@
     "next": "latest",
     "react": "17.0.2",
     "react-dom": "17.0.2"
-  }
+  },
+  "name": "blogprojectgit",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addy4web/newsnext.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/addy4web/newsnext/issues"
+  },
+  "homepage": "https://github.com/addy4web/newsnext#readme"
 }
